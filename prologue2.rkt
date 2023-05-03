@@ -21,6 +21,7 @@
 (define HORIZONTAL-CENTER (/ WIDTH 2))
 (define V 3)
 (define (distance t) (* V t))
+;; replace the period with rocket image
 (define ROCKET .)
 (define COLOR "gray")
 (define MTSCN (overlay/align "middle" "bottom"
